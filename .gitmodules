@@ -1,0 +1,3 @@
+[submodule "Twitter-Cleaner-Browser-Extension"]
+	path = Twitter-Cleaner-Browser-Extension
+	url = git@github.com:bt-personal-project/Twitter-Cleaner-Browser-Extension.git
